@@ -1,8 +1,6 @@
 # Blurring-Sharpening Process Models for Collaborative Filtering
-
-
 ## Introduction
-- Please see our paper for more details: [Blurring-Sharpening Process Models for Collaborative Filtering](https://arxiv.org/abs/2211.09324).
+- Paper for more details: [Blurring-Sharpening Process Models for Collaborative Filtering](https://arxiv.org/abs/2211.09324).
 - We have more interesting works on recommender systems, please check our [LT-OCF](https://dl.acm.org/doi/abs/10.1145/3459637.3482449) ([code](https://github.com/jeongwhanchoi/LT-OCF)) and [HMLET](https://dl.acm.org/doi/abs/10.1145/3488560.3498501) ([code](https://github.com/jeongwhanchoi/HMLET)).
 - We will update arguments information of the code soon.
 

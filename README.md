@@ -12,20 +12,6 @@ Score-based generative models (SGMs) |  Our blurring-sharpening process models (
 > - SGMs use two stochastic processes, one for the forward perturbation and the other for the backward recovery. Since the recovery process is stochastic, it does not typically converge to the original sample $\mathbf{x}(0)$ but to another similar sample. After training, only the recovery process is used to generate fake samples from random noisy vectors $\mathbf{x}(T) \sim \mathcal{N}(\mathbf{\mu}, \mathbf{\sigma})$.
 > - Our BSPMs use two deterministic blurring and sharpening processes. Unlike SGMs trained with many images, our BSPMs process only one interaction matrix; therefore, we use deterministic processes.
 
----
-
-## Citation
-
-Please cite our paper if using this code.
-
-```
-@inproceedings{choi2023bspm,
-  title={Blurring-Sharpening Process Models for Collaborative Filtering},
-  author={Choi, Jeongwhan and Hong, Seoyoung and Park, Noseong and Cho, Sung-Bae},
-  booktitle={Proceedings of the ACM Conference on Research and Development in Information Retrieval (SIGIR)},
-  year={2023}
-}
-```
 
 ---
 
@@ -86,7 +72,3 @@ python main.py --dataset="amazon-book" --topks="[20]" --simple_model="bspm-torch
     - The dimension of latent factors
 
 ---
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=jeongwhanchoi/BSPM&type=Date)](https://star-history.com/#jeongwhanchoi/BSPM&Date)

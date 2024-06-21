@@ -35,7 +35,7 @@ python main.py --dataset="gowalla" --topks="[20]" --simple_model="bspm-torch" --
 ```
 
 - Yelp2018
-![resultofyelp](img/res_yel.png#pic_center =800x)
+
 
 ```bash
 # CPU
@@ -46,6 +46,7 @@ python main.py --dataset="yelp2018" --topks="[20]" --simple_model="bspm-torch" -
 ```
 
 - Amazon-book
+![result](https://github.com/chisat00/BSPM/blob/main/img/res_ama.png#pic_center =800x)
 
 ```bash
 # CPU

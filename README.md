@@ -27,7 +27,8 @@ go to folder `bspm`
 
 - Gowalla
 
-![result of Gowalla](https://github.com/chisat00/BSPM/blob/main/img/res_gow.png)
+Result:
+<img src="img/res_gow.png" width="800">
 
 ```bash
 # CPU
@@ -39,7 +40,8 @@ python main.py --dataset="gowalla" --topks="[20]" --simple_model="bspm-torch" --
 
 - Yelp2018
 
-![result of Yelp](https://github.com/chisat00/BSPM/blob/main/img/res_yel.png)
+Result:
+<img src="img/res_yel.png" width="800">
 
 ```bash
 # CPU
@@ -51,7 +53,8 @@ python main.py --dataset="yelp2018" --topks="[20]" --simple_model="bspm-torch" -
 
 - Amazon-book
 
-![result of Amazon-book](https://github.com/chisat00/BSPM/blob/main/img/res_ama.png)
+Result:
+<img src="img/res_ama.png" width="800">
 
 ```bash
 # CPU

@@ -26,6 +26,9 @@ conda activate bspm
 go to folder `bspm`
 
 - Gowalla
+
+![result of Gowalla](https://github.com/chisat00/BSPM/blob/main/img/res_gow.png)
+
 ```bash
 # CPU
 python main.py --dataset="gowalla" --topks="[20]" --simple_model="bspm" --solver_shr="rk4" --K_s=1 --T_s=2.5 --final_sharpening=True --idl_beta=0.2 --factor_dim=448
@@ -36,6 +39,7 @@ python main.py --dataset="gowalla" --topks="[20]" --simple_model="bspm-torch" --
 
 - Yelp2018
 
+![result of Yelp](https://github.com/chisat00/BSPM/blob/main/img/res_yel.png)
 
 ```bash
 # CPU
@@ -47,9 +51,7 @@ python main.py --dataset="yelp2018" --topks="[20]" --simple_model="bspm-torch" -
 
 - Amazon-book
 
-![](https://github.com/chisat00/BSPM/blob/main/img/res_ama.png#pic_center)
-
-
+![result of Amazon-book](https://github.com/chisat00/BSPM/blob/main/img/res_ama.png)
 
 ```bash
 # CPU

@@ -46,8 +46,9 @@ python main.py --dataset="yelp2018" --topks="[20]" --simple_model="bspm-torch" -
 ```
 
 - Amazon-book
-[![result](https://github.com/chisat00/BSPM/blob/main/img/res_ama.png#pic_center =800x)](https://github.com/chisat00/BSPM/blob/main/img/res_ama.png)
-![result](https://github.com/chisat00/BSPM/blob/main/img/res_ama.png#pic_center =800x)
+![Alt](https://github.com/chisat00/BSPM/blob/main/img/res_ama.png#pic_center =600x600)
+
+
 
 ```bash
 # CPU

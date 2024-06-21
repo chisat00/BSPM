@@ -54,7 +54,7 @@ python main.py --dataset="yelp2018" --topks="[20]" --simple_model="bspm-torch" -
 ```
 
 - Amazon-book
-
+  
 $\qquad$ Result:
 
 <img src="img/res_ama.png" width="800">
@@ -84,7 +84,6 @@ python main.py --dataset="amazon-book" --topks="[20]" --simple_model="bspm-torch
 - `factor_dim`:
     - The dimension of latent factors
 
----
 
 ## Citation
 

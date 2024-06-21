@@ -72,9 +72,17 @@ python main.py --dataset="amazon-book" --topks="[20]" --simple_model="bspm-torch
     - The dimension of latent factors
 
 ---
+## Citation
+
+Please cite our paper if using this code.
+
+```
 @inproceedings{choi2023bspm,
   title={Blurring-Sharpening Process Models for Collaborative Filtering},
   author={Choi, Jeongwhan and Hong, Seoyoung and Park, Noseong and Cho, Sung-Bae},
   booktitle={Proceedings of the ACM Conference on Research and Development in Information Retrieval (SIGIR)},
   year={2023}
 }
+```
+
+---

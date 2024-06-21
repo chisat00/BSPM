@@ -47,7 +47,7 @@ python main.py --dataset="yelp2018" --topks="[20]" --simple_model="bspm-torch" -
 
 - Amazon-book
 
-![](https://github.com/chisat00/BSPM/blob/main/img/res_ama.png)
+![](https://github.com/chisat00/BSPM/blob/main/img/res_ama.png#pic_center)
 
 
 

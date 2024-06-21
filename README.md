@@ -35,7 +35,7 @@ python main.py --dataset="gowalla" --topks="[20]" --simple_model="bspm-torch" --
 ```
 
 - Yelp2018
-<img src="img/res_yel.png" width="800" title="result">
+![result of yelp]([img/res_yel.png=800x])
 
 ```bash
 # CPU

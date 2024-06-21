@@ -27,7 +27,7 @@ go to folder `bspm`
 
 - Gowalla
 
-$\qquad$ Result:
+$\qquad$Result:
 
 <img src="img/res_gow.png" width="800">
 
@@ -41,7 +41,8 @@ python main.py --dataset="gowalla" --topks="[20]" --simple_model="bspm-torch" --
 
 - Yelp2018
 
-Result:
+$\qquad$Result:
+
 <img src="img/res_yel.png" width="800">
 
 ```bash
@@ -54,7 +55,8 @@ python main.py --dataset="yelp2018" --topks="[20]" --simple_model="bspm-torch" -
 
 - Amazon-book
 
-Result:
+$\qquad$Result:
+
 <img src="img/res_ama.png" width="800">
 
 ```bash

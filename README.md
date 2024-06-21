@@ -28,8 +28,7 @@ go to folder `bspm`
 - Gowalla
 
 $\qquad$ Result:
-
-<img src="img/res_gow.png" width="800">
+$\qquad$ <img src="img/res_gow.png" width="800">
 
 ```bash
 # CPU

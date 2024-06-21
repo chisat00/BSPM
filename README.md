@@ -43,7 +43,7 @@ python main.py --dataset="yelp2018" --topks="[20]" --simple_model="bspm" --solve
 # GPU
 python main.py --dataset="yelp2018" --topks="[20]" --simple_model="bspm-torch" --testbatch=2048 --solver_shr="euler" --K_s=1 --T_s=1.2 --final_sharpening=True --t_point_combination=True  --factor_dim=384
 ```
-
+Result <img src="img/res_yel.png" width="400">
 - Amazon-book
 
 ```bash

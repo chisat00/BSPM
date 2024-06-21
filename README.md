@@ -28,6 +28,7 @@ go to folder `bspm`
 - Gowalla
 
 $\qquad$ Result:
+
 $\qquad$ <img src="img/res_gow.png" width="800">
 
 ```bash

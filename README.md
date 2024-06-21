@@ -29,7 +29,7 @@ go to folder `bspm`
 
 $\qquad$ Result:
 
-$\qquad$ <img src="img/res_gow.png" width="800">
+<img src="img/res_gow.png" width="800">
 
 ```bash
 # CPU

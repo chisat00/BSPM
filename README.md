@@ -27,7 +27,7 @@ go to folder `bspm`
 
 - Gowalla
 
-Result:
+\, Result:
 
 <img src="img/res_gow.png" width="800">
 
